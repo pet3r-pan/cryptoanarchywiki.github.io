@@ -14,6 +14,10 @@ From wikipedia:
 
 > Merkle was the manager of compiler development at Elxsi from 1980. In 1988, he became a research scientist at Xerox PARC. In 1999 he became a nanotechnology theorist for Zyvex. In 2003 he became a Distinguished Professor at Georgia Tech, where he led the Georgia Tech Information Security Center. In 2006 he returned to the San Francisco Bay Area, where he has been a senior research fellow at IMM, a faculty member at Singularity University, and a board member of the Alcor Life Extension Foundation. He was awarded the IEEE Richard W. Hamming Medal in 2010.
 
+Other notes
+
+Ralph Merkle is currently a faculty member at the Singularity University and is also an advisor to the Ethereum Foundation.
+
 ## Links
 
 * [Ralph C. Merkle on Wikipedia](https://en.wikipedia.org/wiki/Ralph_Merkle)
